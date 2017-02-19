@@ -6,8 +6,7 @@ header-img: "img/green.jpg"
 ---
 
 
-# Fobug
-
+#     About FoBug：
 *   信息安全爱好者
 # 联系方式
 
