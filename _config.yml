@@ -2,9 +2,9 @@
 title: Fobug
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Fobug's Blog"  
+description: "FoBug's Blog"  
 baseurl: ""
-url: "http://fobug.github.io"  
+url: "http://fobug.com.github.io"  
 
 # About/contact
 owner: 
@@ -17,7 +17,7 @@ gavatar: http://p1.qhmsg.com/dm/96_96_100/t0179aa0e5dce71e354.jpg
 favicon: img/favicon.png
 
  
-twitter_username: 
+twitter_username:4bug 
 github_username: 4bug
 
 
@@ -43,16 +43,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "fobug"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : fobug
   disqus :
-      short_name : hanson
+      short_name : fobug
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
