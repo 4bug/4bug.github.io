@@ -4,7 +4,7 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "FoBug's Blog"  
 baseurl: ""
-url: "http://www.fobug.com"  
+url: "https://www.fobug.com"  
 
 # About/contact
 owner: 
