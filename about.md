@@ -10,6 +10,6 @@ header-img: "img/green.jpg"
 *   信息安全爱好者
 # 联系方式
 
-*   Email：NGFuYnVnQGdtYWlsLmNvbQ== [You Kown.]
+*   Email： [You Kown.]
 *  
 * * *
